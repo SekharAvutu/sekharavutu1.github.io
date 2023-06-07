@@ -1,8 +1,5 @@
 ---
 title: Welcome to my blog
-
-Name: Sekhar Avutu
-Hobbies: programming.
-
 ---
 
+My name is Sekhar Avutu, My hobby is programming.
